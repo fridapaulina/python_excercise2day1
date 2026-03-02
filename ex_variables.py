@@ -42,5 +42,17 @@ print(type(x))
 #6
 is_active = True
 
+print(str(is_active))
 
+#7
+b = "Business"
+i = "Intelligence"
 
+print(b,i)
+
+#8
+#string = "Hej"
+#number = 8
+
+#print(string+number)
+#TypeError: can only concatenate str (not "int") to str
